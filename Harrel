@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Harrel</name>
+		<description></description>
+		<author url="https://docs.google.com/document/d/19Z1NZLxRl-En9Cl_U_MnFXXXpzrdNhmFiC6kypMpFXw/edit?usp=sharing">Ashe R Orsak</author>
+		<update version="1.0.0">
+			<file name="race-harrel.xml" url="https://docs.google.com/document/d/19Z1NZLxRl-En9Cl_U_MnFXXXpzrdNhmFiC6kypMpFXw/edit?usp=sharing" />
+		</update>
+	</info>
+
+  <element name="Harrel" type="Race" source="Homebrew" id="ID_RACE_HARREL">
+    <description>
+      <p class="flavor">Harrels are a simple community driven people. They may form small encampments and settlement, or they may be nomadic. Their feedom is put above all else.</p>
+
+      <h4>SMALL AND PRACTICAL</h4>
+      <p>The diminutive harrels survive in a world full of larger creatures by avoiding notice or, barring that, avoiding offense. Standing about 3 feet tall, they appear relatively harmless and so have managed to survive for centuries in the shadow of empires and on the edges of wars and political strife. They are inclined to be stout, weighing between 40 and 45 pounds.</p>
+      <p class="indent">Harrels' fur ranges from tan to pale with a ruddy cast, and their hair is usually brown or sandy brown and wavy. They have brown or hazel eyes. Halfling men often sport long sideburns, but beards are rare among them and mustaches even more so. They like to wear simple, comfortable, and practical clothes, favoring bright colors.</p>
+      <p class="indent">Harrel practicality extends beyond their clothing. They’re concerned with basic needs and simple pleasures and have little use for ostentation. Even the wealthiest of halflings keep their treasures locked in a cellar rather than on display for all to see. They have a knack for finding the most straightforward solution to a problem, and have little patience for dithering.</p>
+
+      <h4>KIND AND CURIOUS</h4>
+      <p>Harrels are an affable and cheerful people. They cherish the bonds of family and friendship as well as the comforts of hearth and home, harboring few dreams of gold or glory. Even adventurers among them usually venture into the world for reasons of community, friendship, wanderlust, or curiosity. They love discovering new things, even simple things, such as an exotic food or an unfamiliar style of clothing.</p>
+      <p class="indent">Harrels are easily moved to pity and hate to see any living thing suffer. They are generous, happily sharing what they have even in lean times.</p>
+
+      <h4>PASTORAL PLEASANTRIES</h4>
+      <p>Most harrels live in small, peaceful communities with large farms and well-kept groves. They rarely build kingdoms of their own or even hold much land beyond their quiet shires. They typically don’t recognize any sort of halfling nobility or royalty, instead looking to family elders to guide them. Families preserve their traditional ways despite the rise and fall of empires.</p>
+      <p class="indent">Many harrels live among other races, where the harrels' hard work and loyal outlook offer them abundant rewards and creature comforts. Some halfling communities travel as a way of life, driving wagons or guiding boats from place to place and maintaining no permanent home.</p>
+
+      <h4>EXPLORING OPPORTUNITIES</h4>
+      <p>Harrels usually set out on the adventurer’s path to defend their communities, support their friends, or explore a wide and wonder-filled world. For them, adventuring is less a career than an opportunity or sometimes a necessity.</p>
+
+      <h4>HARREL NAMES</h4>
+      <p>A harrel has a given name and a community name. These names almost always reflect nature, but may reflect something else if a harrel has had a unique life. A first name may change as a harrel grows up. Community names often reflect the location they grew up in. If the community has made a very long move, the new generations will often have new community names. </p>
+      <p>
+        <span class="feature">First Names:</span>Willow, Ash, Larch, Maple, Acer, Aspen, Holly, Hazel, Aster, Peony, Bluebell, Violet, Clover, Autumn, Breezy, Dawn, Winter, Lark, Heron, Jay, Finch, Shrike, Swift, Warbler<br/>
+        <span class="feature">Community Names:</span>Snowtread, Berryblight, Icybrook, Stonetoss, Scorchedpaw, Firewalker, Sunseeker, Weatheredwing<br/>
+      </p>
+
+      <h4>HARREL TRAITS</h4>
+      <p>Your harrel character has a number of traits in common with all other harrels.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Dexterity score increases by 2.<br/>
+        <span class="feature">Ability Score Decrease.</span>Your Strength score decreases by 2.<br/>
+        <span class="feature">Age.</span>A harrel reaches maturty by 9-10 years of age and can live in their 40's. Harrels living past 50 are either quite lucky or had an unusually peaceful life.<br/>
+        <span class="feature">Alignment.</span>Harrels tend towards chaotic good and choatic neutral alignments.<br/>
+        <span class="feature">Size.</span>Harrels are usually between 3 to 4 feet tall. Your size is Small.<br/>
+        <span class="feature">Speed.</span>Your base walking speed is 35 feet.<br/>
+        <span class="feature">Bunny Hop.</span>Your long jump is aided by your wings and long legs. Use your Dexterity (Acrobatics) to determine the jump instead.<br/>
+        <span class="feature">Aboreal Jitter.</span>You are proficient in the Acrobatics skill.<br/>
+        <span class="feature">Keen Senses.</span>You are proficient in the Perception skill.<br/>
+        <span class="feature">Harrel Nimbleness.</span>You can move through the space of any creature that is of a size larger than yours.<br/>
+        <span class="feature">Dark Vision.</span>Being nocturnal, you are able to see about 60 feet in the dark.<br/>
+        <span class="feature">Languages.</span>You can speak, read, and write Common and Sylvan. You have also learned a sign language specific to your home community. You can teach simple signs to others.<br/>
+        <span class="feature">Subrace.</span>There are three subraces you can choose from:  white-tailed, tawny desert, and pygmy harrel. Choose one of these subraces. Choose one of these subraces.<br/>
+      </p>
+    </description>
+    <sheet display="false" />
+    <setters>
+      <set name="names" type="first">Alton, Ander, Cade, Corrin, Eldon, Errich, Finnan, Garret, Lindal, Lyle, Merric, Milo, Osborn, Perrin, Reed, Roscoe, Wellby</set>
+      <set name="names" type="cmmmunity">Brushgather, Goodbarrel, Greenbottle, High-hill, Hilltopple, Leagallow, Tealeaf, Thorngage, Tosscobble, Underbough</set>
+      <set name="names-format">{{name}} {{family}}</set>
+      <set name="height" modifier="2d4">2'7"</set>
+      <set name="weight" modifier="1d4">35 lb.</set>
+    </setters>
+    <rules>
+      <stat name="dexterity" value="2"/>
+      <stat name="strength" value="-2"/>
+      <stat name="innate speed" value="35" bonus="base"/>
+      <grant type="Size" id="ID_SIZE_SMALL" />
+      <grant type="Language" id="ID_LANGUAGE_COMMON" />
+      <grant type="Language" id="ID_LANGUAGE_SYLVAN" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_BUNNY_HOP" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_KEEN_SENSES" />
+      <grant type="Vision" id="ID_VISION_DARKVISION" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_HARREL_NIMBLENESS" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_HARREL_SUBRACE" />
+    </rules>
+  </element>
+
+  <element name="Bunny Hop" type="Racial Trait" source="Homebrew" id="ID_RACIAL_TRAIT_BUNNY_HOP">
+    <description>
+      <p>Your long jump is aided by your wings and long legs. Use your Dexterity (Acrobatics) to determine the jump instead. </p>
+    </description>
+    <sheet>
+      <description>Your long jump is aided by your wings and long legs. Use your Dexterity (Acrobatics) to determine the jump instead.</description>
+    </sheet>
+  </element>
+  <element name="Keen Senses" type="Racial Trait" source="Homebrew" id="ID_RACIAL_TRAIT_KEEN_SENSES">
+    <description>
+      <p>Your prey animal heritage helps your awareness stay sharp and true. You have proficiency in the Perception skill.</p>
+    </description>
+    <sheet>
+      <description>Your prey animal heritage helps your awareness stay sharp and true. You have proficiency in the Perception skill.</description>
+    </sheet>
+  </element>
+  <element name="Harrel Nimbleness" type="Racial Trait" source="Homebrew" id="ID_RACIAL_TRAIT_HARREL_NIMBLENESS">
+    <description>
+      <p>You can move through the space of any creature that is of a size larger than yours.</p>
+    </description>
+    <sheet>
+      <description>You can move through the space of any creature that is of a size larger than yours.</description>
+    </sheet>
+  </element>
+  <element name="Harrel Subrace" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_HARREL_SUBRACE">
+    <description>
+      <p>There are three subraces you can choose from:  white-tailed, tawny desert, and pygmy harrels. Choose one of these subraces.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <select type="Sub Race" name="Harrel Subrace" supports="Harrel" />
+    </rules>
+  </element>
+
+  <element name="White-Tailed Harrel" type="Sub Race" source="Homebrew" id="ID_SUB_RACE_WHITE-TAILED_HARREL">
+    <supports>Harrel</supports>
+    <description>
+      <p>White-Tailed Harrels have long, thick fur and are resistant to cold. They have elaborate deer-like antlers and cool colored fur that ranges from white to grey, or rarely even to black. They’re usually an easy going group of people who enjoy sharing their creations. The average height for this subrace is 3 to 3.5 ft tall.</p>      <p>
+        <span class="feature">Ability Score Increase.</span>Your Wisdom or Charisma score increases by 1.<br/>
+        <span class="feature">Naturally Fluffy.</span>Your thick fur grants you Cold Resistance.<br/>
+      </p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="wisdom" value="1" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_NATURALLY_FLUFFY" />
+    </rules>
+	</element>
+  
+  <element name="Tawny Desert Harrel" type="Sub Race" source="Homebrew" id="ID_SUB_RACE_TAWNY_DESERT_HARREL">
+    <supports>Harrel</supports>
+    <description>
+      <p>Tawny Desert Harrels are short, slick fur and are resistant to heat. They have a pair of horns that may be smooth or lightly spiraled. Their fur ranges from light cream to darker beiges and reds. They often match the color of the surrounding area for better commoflague. They tend to be the most nomadic of all the subraces. The harder climate also tends to harden their personalities. They are also a bit taller than their other relatives, and are usually 3.5 to 4 feet tall.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Constituion score increases by 1.<br/>
+        <span class="feature">Desert Hardened.</span>You have advantage on saving throws against fire, and you have resistance against fire damage.<br/>
+      </p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="constitution" value="1" />
+     <grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_FIRE" />
+    </rules>
+  </element>
+
+  <element name="Pigmy Harrel" type="Sub Race" source="Homebrew" id="ID_SUB_RACE_PIGMY_HARREL">
+    <supports>Harrel</supports>
+    <description>
+      <p>Pigmy Harrels are even smaller than any of their other relatives and much are more rare. They are tiny in size and range from 1.5 to 2 feet in height. Their fur is usually a brown agouti with a white belly. Their horns are very small. They often have a harder time grasping spoken languages and it may sound broken. This is due to their overall lower intelligence. This subrace is almost never found in cities, but instead in plains or forests with elaborate burrow systems used by small communities. They have poison resistance due to dealing with snakes often. They may be mistaken for animals by someone who does not know much about them. This can greatly anger them!</p>
+      <p>
+        <span class="feature">Ability Score Decrease.</span>Your Intelligence score decreases by 2.<br/>
+        <span class="feature">Vulnerable Prey.</span>You have advantage on saving throws against poison, and you have resistance against poison damage.<br/>
+      </p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="intelligence" value="-2" />
+     <grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_POISON" />
+    </rules>
+  </element>
+
+  <element name="Naturally Fluffy" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_NATURALLY_FLUFFY">
+    <description>
+      <p>You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.</p>
+    </description>
+    <sheet>
+      <description>You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.</description>
+    </sheet>
+        <rules>
+	    <grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_COLD" />
+    	<select type="Racial Trait" name="Ability Score Increase (Harrel)" supports="Harrel" number="1" requirements="!ID_WOTC_WGTE_GRANTS_DARKMARKED,!ID_INTERNAL_GRANTS_DRAGONMARK"/>
+
+    </rules>
+  </element>
+
+  <element name="Desert Hardened" type="Racial Trait" source="Homebrew" id="ID_RACIAL_TRAIT_DESERT_HARDENED">
+    <description>
+      <p>As a tawny desert harrel, you’re hardier than average. You have advantage on saving throws against fire, and you have resistance against fire damage.</p>
+    </description>
+    <sheet>
+      <description>As a tawny desert harrel, you’re hardier than average. You have advantage on saving throws against fire, and you have resistance against fire damage.</description>
+    </sheet>
+    <rules>
+	    <grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_FIRE" />
+    </rules>
+  </element>
+  
+  <element name="Vulnerable Prey" type="Racial Trait" source="Homebrew" id="ID_RACIAL_TRAIT_VULNERABLE_PREY">
+    <description>
+      <p>You have advantage on saving throws against poison, and you have resistance against poison damage.</p>
+    </description>
+    <sheet>
+      <description>You have advantage on saving throws against poison, and you have resistance against poison damage.</description>
+    </sheet>
+    <rules>
+	    <grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_POISON" />
+    </rules>
+  </element>
+  
+</elements>
